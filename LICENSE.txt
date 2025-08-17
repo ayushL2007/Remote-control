@@ -1,0 +1,29 @@
+Custom Source-Available License
+Copyright © Ayush Lahiri, August 17, 2025
+
+This software and its associated source code (hereafter referred to as “the Software”) are made available by the author, Ayush Lahiri, for the sole purpose of personal inspection and non-commercial usage.
+
+By accessing, downloading, or using the Software, you agree to the following terms:
+
+1. **Permitted Uses**
+   - You may **read** the source code for educational or personal reference.
+   - You may **execute** the Software for personal, non-commercial use.
+
+2. **Prohibited Uses**
+   - You may **not modify**, alter, adapt, or create derivative works based on the Software.
+   - You may **not redistribute**, publish, or share the Software or any portion thereof in any form.
+   - You may **not reuse** any part of the Software in other projects, whether personal, academic, or commercial.
+   - You may **not use** the Software for any commercial, institutional, or production purposes.
+   - You may **not sublicense**, sell, rent, or lease the Software.
+
+3. **No Warranty**
+   - The Software is provided “as is”, without warranty of any kind, express or implied.
+   - The author shall not be liable for any damages arising from the use or inability to use the Software.
+
+4. **Termination**
+   - Any violation of these terms will result in immediate termination of your rights under this license.
+
+5. **Contact**
+   - For inquiries regarding alternative licensing or permissions, please contact: [your email or GitHub handle]
+
+This license is non-transferable and governed by the laws of the jurisdiction of the author.
